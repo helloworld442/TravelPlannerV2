@@ -162,7 +162,6 @@ const SideBarPlannerBox = styled.ul`
     margin-bottom: 36px;
     font-size: 0.95rem;
     font-weight: 550;
-    font-family: Pretendard;
     color: #333;
 
     &:last-child {
