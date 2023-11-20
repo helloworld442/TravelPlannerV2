@@ -2,9 +2,9 @@ import styled from "styled-components";
 import TodoList from "./TodoList";
 import TodoForm from "./TodoForm";
 import TodoHead from "./TodoHead";
+import TodoProgressBar from "./TodoProgressBar";
 import { useRecoilValue } from "recoil";
 import { caroselAtom } from "../../provider/recoil/atom";
-import TodoProgressBar from "./TodoProgressBar";
 
 const days = ["SUN", "MON", "THU", "WED", "THR", "FRI", "SAT"];
 
